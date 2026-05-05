@@ -1,5 +1,0 @@
-Please add a LICENSE.txt to your repository at the latest when you make it public, but preferrably before. We do not have a single recommendation of what license to use, as it might depend on your institution and other circumstances.
-
-Some of the most common licenses for fundamental science codes seem to be: MIT license, BSD licenses (2-clause or 3-clause), and Apache 2.0 and possibly GPL.
-
-Read more about licensing code here: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository.
