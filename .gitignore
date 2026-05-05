@@ -1,0 +1,86 @@
+# Place all data into the below two folders so that
+# it doesn't clogg up your git history
+inputs/
+outputs/
+
+# Data and binaries (just in case)
+*/data/*
+*.dat
+*.fits
+%.hdf5
+*.h5
+*.pkl
+*.hkl
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.rar
+*.nz
+*.png
+*.jpg
+*.pdf
+*.xml
+*.exe
+
+# Editor & OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# LaTeX-specific auxiliary files
+
+# Jupyter notebooks
+notebooks/
+*.ipynb
+.ipynb_checkpoints/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Testing
+pytest_cache/
+
+# Caches
+.cache/
+pip-wheel-metadata/
+__pypackages__/
+
+# Local environment variables
+.env
+
+# Compiled C & Cython files
+*.c
+*.so
+*.pyd
+*.o
+o.obj
+*.so
+*.dll
+a.out
+
+# JAX & NumPy cache
+jax_cache/
